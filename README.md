@@ -1,4 +1,4 @@
-**Valentin Bertez – Portfolio**
+[**Valentin Bertez – Portfolio**](https://github.com/NovaBrioche/Portfolio)
 
 <br>
 Bienvenue sur mon portfolio.
@@ -63,6 +63,6 @@ Depuis 9 ans, je suis intervenu dans divers secteurs d'activité : bailleur soci
 **Lien utiles**
 <br>
 
-- [Portfolio](https://www.linkedin.com/in/valentin-bertez-825728252/)
+- [Portfolio](https://github.com/NovaBrioche/Portfolio)
 - [Linkedin](https://www.linkedin.com/in/valentin-bertez-825728252/)
 - [Mail](bertezvalentin@gmail.com) 
