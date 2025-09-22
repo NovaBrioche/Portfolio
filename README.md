@@ -20,11 +20,12 @@ J'ai également animé des formations sur Qliksense et me suis certifié sur l'o
 
 **Ce que j'ai fait**
 <br>
+
 Depuis 9 ans, je suis intervenu dans divers secteurs d'activité : bailleur social, service portuaire, administration,...
 <br>
 <br>
 
-_Bailleur social_
+  _Bailleur social_
 <br>
   - Mise en place d'un flux de demande d'accès aux reportings : pour structurer et tracer les demandes d'accès.
   - Administration de Qlik : gestion des accès et planification des tâches de rechargement.
@@ -34,7 +35,7 @@ _Bailleur social_
 <br>   
 <br>
 
-_Secteur portuaire_
+  _Secteur portuaire_
 <br>
   - Mise en place d'une carte interative (sous Qliksense) indiquant où placer les conteneurs sur le parc pour optimiser les temps de déplacement.
   - Création d'un planning mensuel indiquant pour le mois en cours les opérations de maintenance à faire par ordre de priorité.
@@ -43,7 +44,7 @@ _Secteur portuaire_
  <br>
  <br>
 
-_Administration_
+  _Administration_
 <br>
   - Déploiement d'un reporting suivant les dépenses et recettes ayant un impact sur l'environnement (budget vert).
   - Proposition de nouveaux KPI.
@@ -62,5 +63,6 @@ _Administration_
 **Lien utiles**
 <br>
 
+- [Portfolio](https://www.linkedin.com/in/valentin-bertez-825728252/)
 - [Linkedin](https://www.linkedin.com/in/valentin-bertez-825728252/)
 - [Mail](bertezvalentin@gmail.com) 
