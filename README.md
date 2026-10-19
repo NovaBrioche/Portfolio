@@ -1,7 +1,7 @@
 [**Valentin Bertez – Portfolio**](https://github.com/NovaBrioche/Portfolio)
 
 <br>
-Bienvenue sur mon portfolio (lien en titre).<br>
+Bienvenue sur mon portfolio (lien en titre).<br><br>
 Je suis Valentin Bertez, Data Analyst depuis 2016, spécialisé sur l'environnement Qliksense et débutant sur Tableau et Power BI.
 J'ai également animé des formations sur Qliksense et me suis certifié sur l'outil.
 <br>
