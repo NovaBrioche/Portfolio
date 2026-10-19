@@ -10,8 +10,8 @@ J'ai également animé des formations sur Qliksense et me suis certifié sur l'o
 **À propos de moi** 
 <br>
 - Diplômé d'une Licence Statistiques Décisionnelles en Marketing
-- 9 ans d’expérience en modélisation et analyse de données.
-- 6 ans d'expérience sur l'environnement Qlik.
+- 10 ans d’expérience en modélisation et analyse de données.
+- 8 ans d'expérience sur l'environnement Qlik.
 - Formateur Qlik
 - Certifié Qlik : Data Architect
 - Débutant sur Power BI et Tableau
